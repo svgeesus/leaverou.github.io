@@ -1266,7 +1266,8 @@
 		{
 			"name": "CatHerder",
 			"description": "Tools for enhanced herding of cats",
-			"blogPost": "https://en.wikipedia.org/wiki/Herding_cats"
+			"blogPost": "https://en.wikipedia.org/wiki/Herding_cats",
+			"image": "http://www.wordsinspace.net/digital-archives/2014-spring/wp-content/uploads/2014/03/cat-herding.jpg"
 		},
 		{
 			"url": "http://blissfuljs.com/",
