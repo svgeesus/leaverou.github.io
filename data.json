@@ -1264,11 +1264,9 @@
 	],
 	"project": [
 		{
-			"url": "https://mavo.io",
-			"image": "http://mavo.io/logo.svg",
-			"name": "Mavo",
-			"description": "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend. \nDeveloped in the Haystack Group at MIT CSAIL and led by Lea Verou.",
-			"blogPost": "http://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/"
+			"name": "CatHerder",
+			"description": "Tools for enhanced herding of cats",
+			"blogPost": "https://en.wikipedia.org/wiki/Herding_cats"
 		},
 		{
 			"url": "http://blissfuljs.com/",
